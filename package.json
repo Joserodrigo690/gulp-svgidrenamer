@@ -1,0 +1,32 @@
+{
+  "name": "gulp-svgidrenamer",
+  "version": "1.0.0",
+  "description": "show how to rename and add prefix to id's in svg elementa",
+  "main": "gulpfile.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Joserodrigo690/gulp-svg-idrenamer.git"
+  },
+  "keywords": [
+    "svg",
+    "id",
+    "rename"
+  ],
+  "author": "Grupo NT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Joserodrigo690/gulp-svg-idrenamer/issues"
+  },
+  "homepage": "https://gitlab.com/Joserodrigo690/gulp-svg-idrenamer#README",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svgmin": "^1.2.4",
+    "path": "^0.12.7"
+  }
+}

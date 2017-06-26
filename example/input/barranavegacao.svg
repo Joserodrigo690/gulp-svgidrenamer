@@ -1,0 +1,429 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1016px" height="90px" viewBox="0 0 1016 90" id="nav-bar">
+<defs>
+<linearGradient id="Gradient_1" gradientUnits="userSpaceOnUse" x1="493.425" y1="43.2" x2="506.47499999999997" y2="43.2" spreadMethod="pad">
+<stop  offset="0%" stop-color="#404041"/>
+
+<stop  offset="100%" stop-color="#231F20"/>
+</linearGradient>
+
+<linearGradient id="Gradient_2" gradientUnits="userSpaceOnUse" x1="427.0875" y1="-7.85" x2="480.9125" y2="-7.85" spreadMethod="pad">
+<stop  offset="0%" stop-color="#404041"/>
+
+<stop  offset="100%" stop-color="#231F20"/>
+</linearGradient>
+
+<linearGradient id="Gradient_3" gradientUnits="userSpaceOnUse" x1="416.6625" y1="-7.85" x2="362.8375" y2="-7.85" spreadMethod="pad">
+<stop  offset="0%" stop-color="#404041"/>
+
+<stop  offset="100%" stop-color="#231F20"/>
+</linearGradient>
+
+<linearGradient id="Gradient_4" gradientUnits="userSpaceOnUse" x1="-148.825" y1="-8.3" x2="255.425" y2="-8.3" spreadMethod="pad">
+<stop  offset="0%" stop-color="#404041"/>
+
+<stop  offset="100%" stop-color="#231F20"/>
+</linearGradient>
+
+<linearGradient id="Gradient_5" gradientUnits="userSpaceOnUse" x1="-479.0625" y1="-7.85" x2="-425.23749999999995" y2="-7.85" spreadMethod="pad">
+<stop  offset="0%" stop-color="#404041"/>
+
+<stop  offset="100%" stop-color="#231F20"/>
+</linearGradient>
+
+<linearGradient id="Gradient_6" gradientUnits="userSpaceOnUse" x1="-328.26250000000005" y1="-7.85" x2="-274.4375" y2="-7.85" spreadMethod="pad">
+<stop  offset="0%" stop-color="#404041"/>
+
+<stop  offset="100%" stop-color="#231F20"/>
+</linearGradient>
+
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.2 0" result="result1"/>
+</filter>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_FILL">
+<path fill="url(#Gradient_1)" stroke="none" d="
+M 506.5 36.7
+L 493.45 36.7 493.45 49.75 506.5 49.75 506.5 36.7 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_0_FILL">
+<path fill="#54B2D3" stroke="none" d="
+M 508 50
+L 508 -50 -508 -50 -508 50 508 50 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_1_FILL">
+<path fill="#D0D2D3" stroke="none" d="
+M 493.15 19.25
+L 493.15 -35 -493.8 -35 -493.8 19.25 493.15 19.25 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Assets__Path__0_Layer0_0_FILL">
+<path fill="#231F20" stroke="none" d="
+M 964.75 7.3
+L 964.75 0 0 0 0 7.3 964.75 7.3 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_3_FILL">
+<path fill="#D0D2D3" stroke="none" d="
+M 493.15 35.15
+L 493.15 26.05 -493.8 26.05 -493.8 35.15 493.15 35.15 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_4_MEMBER_0_FILL">
+<path fill="url(#Gradient_2)" stroke="none" d="
+M 431.5 -24.35
+Q 429.65 -24.35 428.4 -23.05 427.1 -21.75 427.1 -19.95
+L 427.1 4.25
+Q 427.1 6.05 428.4 7.35 429.65 8.65 431.5 8.65
+L 476.5 8.65
+Q 478.35 8.65 479.6 7.35 480.9 6.05 480.9 4.25
+L 480.9 -19.95
+Q 480.9 -21.75 479.6 -23.05 478.35 -24.35 476.5 -24.35
+L 431.5 -24.35 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_4_MEMBER_1_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 464.9 -7.85
+L 447.1 -18.15 447.1 2.4 464.9 -7.85 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_5_MEMBER_0_FILL">
+<path fill="url(#Gradient_3)" stroke="none" d="
+M 364.15 -23.05
+Q 362.85 -21.75 362.85 -19.95
+L 362.85 4.25
+Q 362.85 6.05 364.15 7.35 365.4 8.65 367.25 8.65
+L 412.25 8.65
+Q 414.1 8.65 415.35 7.35 416.65 6.05 416.65 4.25
+L 416.65 -19.95
+Q 416.65 -21.75 415.35 -23.05 414.1 -24.35 412.25 -24.35
+L 367.25 -24.35
+Q 365.4 -24.35 364.15 -23.05 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_5_MEMBER_1_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 396.65 -18.15
+L 378.85 -7.85 396.65 2.4 396.65 -18.15 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_6_FILL">
+<path fill="url(#Gradient_4)" stroke="none" d="
+M 255.4 -20.4
+Q 255.4 -22.2 254.1 -23.5 252.85 -24.8 251 -24.8
+L -144.45 -24.8
+Q -146.25 -24.8 -147.55 -23.5 -148.85 -22.2 -148.85 -20.4
+L -148.85 3.8
+Q -148.85 5.6 -147.55 6.9 -146.25 8.2 -144.45 8.2
+L 251 8.2
+Q 252.85 8.2 254.1 6.9 255.4 5.6 255.4 3.8
+L 255.4 -20.4 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_7_FILL">
+<path fill="#BBBDBF" stroke="none" d="
+M 178.8 -5.5
+L 178.8 -11.1
+Q 178.8 -11.5 178.55 -11.8 178.35 -12.1 178 -12.1
+L -105.7 -12.1
+Q -106.5 -12.1 -106.5 -11.1
+L -106.5 -5.5
+Q -106.5 -4.5 -105.7 -4.5
+L 178 -4.5
+Q 178.35 -4.5 178.55 -4.8 178.8 -5.1 178.8 -5.5 Z"/>
+</g>
+
+<g id="menu_0_Layer0_0_MEMBER_0_FILL">
+<path fill="url(#Gradient_5)" stroke="none" d="
+M -474.7 -24.35
+Q -476.5 -24.35 -477.8 -23.05 -479.1 -21.75 -479.1 -19.95
+L -479.1 4.2
+Q -479.1 6.05 -477.8 7.35 -476.5 8.65 -474.7 8.65
+L -429.65 8.65
+Q -427.8 8.65 -426.55 7.35 -425.25 6.05 -425.25 4.2
+L -425.25 -19.95
+Q -425.25 -21.75 -426.55 -23.05 -427.8 -24.35 -429.65 -24.35
+L -474.7 -24.35 Z"/>
+</g>
+
+<g id="menu_0_Layer0_0_MEMBER_2_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M -469.3 -9.8
+L -469.3 -5.9 -435 -5.9 -435 -9.8 -469.3 -9.8 Z"/>
+</g>
+
+<g id="menu_0_Layer0_0_MEMBER_3_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M -469.3 -17.7
+L -469.3 -13.75 -435 -13.75 -435 -17.7 -469.3 -17.7 Z"/>
+</g>
+
+<g id="menu_0_Layer0_0_MEMBER_4_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M -435 -1.95
+L -469.3 -1.95 -469.3 2 -435 2 -435 -1.95 Z"/>
+</g>
+
+<g id="bt_som_0_Layer1_0_MEMBER_0_FILL">
+<path fill="url(#Gradient_6)" stroke="none" d="
+M -326.95 -23.05
+Q -328.25 -21.75 -328.25 -19.95
+L -328.25 4.25
+Q -328.25 6.05 -326.95 7.35 -325.7 8.65 -323.85 8.65
+L -278.8 8.65
+Q -277 8.65 -275.7 7.35 -274.4 6.05 -274.4 4.25
+L -274.4 -19.95
+Q -274.4 -21.75 -275.7 -23.05 -277 -24.35 -278.8 -24.35
+L -323.85 -24.35
+Q -325.7 -24.35 -326.95 -23.05 Z"/>
+</g>
+
+<g id="bt_som_0_Layer1_0_MEMBER_2_MEMBER_0_FILL">
+<path class="soundPath" fill="#FFFFFF" stroke="none" d="
+M -308.45 -11.4
+L -313.3 -11.4 -313.3 -4.3 -308.45 -4.3 -302.4 0.4 -302.4 -16.1 -308.45 -11.4 Z"/>
+</g>
+
+<g id="bt_som_0_Layer1_0_MEMBER_2_MEMBER_1_FILL">
+<path class="soundPath" fill="#FFFFFF" stroke="none" d="
+M -290.95 -14.8
+Q -292.55 -17.85 -295.1 -19.15
+L -296.55 -16.9
+Q -294.6 -16.05 -293.3 -13.55 -292 -11 -292 -7.85 -292 -4.75 -293.25 -2.2 -294.5 0.35 -296.45 1.2
+L -295.1 3.45
+Q -292.55 2.15 -290.95 -0.9 -289.35 -4.05 -289.35 -7.85 -289.35 -11.7 -290.95 -14.8 Z"/>
+</g>
+
+<g id="bt_som_0_Layer1_0_MEMBER_2_MEMBER_2_FILL">
+<path class="soundPath" fill="#FFFFFF" stroke="none" d="
+M -295.6 -11.85
+Q -296.45 -13.7 -297.9 -14.8
+L -299.25 -12.6
+Q -297.35 -10.95 -297.35 -7.85 -297.35 -4.9 -299.15 -3.2
+L -297.8 -0.95
+Q -294.7 -3.45 -294.7 -7.85 -294.7 -10 -295.6 -11.85 Z"/>
+</g>
+
+<g id="flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer0_0_MEMBER_0_FILL">
+<path fill="#D90F17" stroke="none" d="
+M 28.55 0
+L 0.8 0
+Q 0 0 0 1
+L 0 6.6
+Q 0 7.6 0.8 7.6
+L 28.55 7.6 28.55 0 Z"/>
+</g>
+
+<font horiz-adv-x="2048">
+<!--  Nome da fonte: Colaborate-Bold
+ID do fornecedor: pyrs
+Copyright (c) 2003 by This Font is designed by Ralph Oliver du Carrois. All rights reserved.
+URL for more Information: http://www.adobe.com/go/font_vendor_id?ID=pyrs&Name=Colaborate-Bold&PSName=Colaborate-Bold&applanguage=pt_BR-->
+<font-face font-family="Colaborate_Bold_Regular" units-per-em="2048" ascent="1710" descent="539"/>
+
+<glyph unicode="0" horiz-adv-x="1159" d="
+M 770 631
+Q 771 493 756 395 741 298 699 246 656 194 575 194 490 194 450 243 410 292 399 389 388 486 389 631 387 753 398 845 409 938 449 990 490 1042 577 1043 661 1043 703 1000 745 956 758 864 771 773 770 631 Z
+M 1081 631
+Q 1082 846 1034 989 985 1132 874 1203 764 1274 577 1274 318 1275 197 1117 77 959 78 631 77 412 124 264 171 115 280 39 389 -37 575 -37 764 -37 875 40 986 117 1034 265 1082 414 1081 631 Z"/>
+
+<glyph unicode="1" horiz-adv-x="1159" d="
+M 870 -2
+L 870 1243 567 1243 235 997 328 778 559 956 559 -2 870 -2 Z"/>
+
+<glyph unicode="%" horiz-adv-x="1794" d="
+M 1716 340
+Q 1718 517 1645 604 1572 692 1405 692 1248 692 1170 606 1091 519 1091 340 1089 159 1162 65 1235 -28 1402 -29 1571 -28 1644 66 1718 160 1716 340 Z
+M 1521 340
+Q 1522 226 1496 169 1470 112 1402 112 1329 111 1308 164 1286 218 1288 340 1286 443 1309 497 1331 551 1405 551 1472 553 1497 505 1523 458 1521 340 Z
+M 1378 1289
+L 1142 1289 402 0 635 0 1378 1289 Z
+M 707 1002
+Q 708 1179 634 1266 559 1354 392 1354 235 1354 157 1268 78 1181 78 1002 76 821 149 727 222 634 389 633 558 634 633 728 708 822 707 1002 Z
+M 508 1002
+Q 509 888 483 831 457 774 389 774 316 773 295 826 273 880 275 1002 273 1105 296 1159 318 1213 392 1213 459 1215 484 1167 510 1120 508 1002 Z"/>
+
+<glyph unicode="M" horiz-adv-x="1980" d="
+M 1796 0
+L 1796 1325 1294 1325 997 414 710 1325 188 1325 188 0 487 0 487 993 819 0 1153 0 1487 993 1487 0 1796 0 Z"/>
+
+<glyph unicode="e" horiz-adv-x="1108" d="
+M 1020 348
+Q 1021 562 977 698 933 835 829 900 726 965 549 965 413 964 323 916 232 869 180 793 127 717 105 630 83 542 84 459 84 327 139 217 193 106 300 40 406 -27 563 -29 666 -29 770 -11 873 7 961 45
+L 868 258
+Q 794 221 718 199 642 178 580 178 506 177 451 216 397 255 377 348
+L 1020 348 Z
+M 739 555
+L 379 555
+Q 384 646 417 688 450 730 490 741 529 752 551 750 622 753 674 711 727 670 739 555 Z"/>
+
+<glyph unicode="n" horiz-adv-x="1124" d="
+M 993 0
+L 993 590
+Q 994 699 967 783 940 868 865 917 791 966 649 967 588 965 540 938 493 910 460 877 426 843 406 822
+L 365 936 105 936
+Q 113 891 122 843 130 795 131 737
+L 131 0 412 0 412 567
+Q 435 613 462 656 489 698 523 726 556 753 598 754 654 753 678 731 703 709 708 675 713 642 712 609
+L 712 0 993 0 Z"/>
+
+<glyph unicode="u" horiz-adv-x="1110" d="
+M 1005 0
+Q 997 45 988 93 980 141 979 198
+L 979 936 698 936 698 368
+Q 675 322 650 280 625 238 593 210 562 183 520 182 469 183 446 206 423 228 417 261 411 295 412 327
+L 412 936 131 936 131 346
+Q 130 237 159 153 187 68 261 19 335 -30 469 -31 530 -29 576 -2 621 26 652 59 684 93 704 114
+L 745 0 1005 0 Z"/>
+
+<glyph unicode="S" horiz-adv-x="1262" d="
+M 1134 344
+Q 1132 472 1083 555 1033 638 955 690 876 742 788 775 700 808 621 835 543 861 493 895 444 928 442 981 440 1002 454 1033 467 1064 513 1088 559 1113 655 1114 749 1112 814 1087 878 1061 934 1034
+L 1028 1294
+Q 972 1313 903 1326 835 1340 769 1347 704 1354 657 1354 564 1354 471 1333 378 1313 301 1268 223 1224 176 1153 128 1081 127 981 129 864 178 787 228 710 306 662 385 613 473 579 561 546 640 515 718 484 768 444 817 403 819 340 819 280 786 249 754 218 693 208 632 198 546 199 464 201 380 228 296 255 221 285
+L 127 25
+Q 185 9 260 -6 335 -21 410 -31 486 -40 544 -41 700 -43 834 -15 967 13 1049 97 1132 180 1134 344 Z"/>
+
+<glyph unicode="o" horiz-adv-x="1141" d="
+M 770 473
+Q 769 360 743 296 716 233 671 207 626 181 572 182 476 181 424 251 372 320 371 473 371 587 396 648 420 709 465 732 510 755 572 754 636 755 680 732 725 709 747 648 770 587 770 473 Z
+M 1057 473
+Q 1058 611 1010 722 962 834 855 900 748 965 572 967 398 965 290 897 183 829 133 717 83 605 84 473 83 336 133 222 182 108 290 40 397 -29 572 -31 745 -29 852 40 959 109 1008 223 1058 337 1057 473 Z"/>
+
+<glyph unicode="m" horiz-adv-x="1700" d="
+M 1569 0
+L 1569 598
+Q 1569 785 1487 876 1406 967 1237 967 1135 967 1063 933 990 899 950 834 903 890 864 918 825 947 775 957 725 968 647 967 593 965 543 938 493 910 456 876 419 842 404 820
+L 365 936 105 936
+Q 110 884 120 832 130 779 131 721
+L 131 0 412 0 412 569
+Q 424 594 450 637 475 681 511 716 548 752 592 754 632 755 657 745 682 736 693 701 704 667 704 594
+L 704 0 985 0 985 557
+Q 1002 606 1030 650 1058 695 1099 724 1139 753 1192 754 1220 755 1241 744 1263 732 1275 698 1288 663 1288 594
+L 1288 0 1569 0 Z"/>
+</font>
+</defs>
+
+<g id="rodape" transform="matrix( 1, 0, 0, 1, 508,39.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 0.8914947509765625, 0,5.45) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 0.8914947509765625, 0.3,5.45) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 0.8914947509765625, -482.4,22.7) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_1)" xlink:href="#flash0_ai_Assets_0_Assets__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 0.8914947509765625, 0.3,5.45) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_3_FILL"/>
+</g>
+
+<g class="next" transform="matrix( 1, 0, 0, 1, 2,6) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_4_MEMBER_0_FILL"/>
+</g>
+
+<g class="next" transform="matrix( 1, 0, 0, 1, 2,6) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_4_MEMBER_1_FILL"/>
+</g>
+
+<g class="prev" transform="matrix( 1, 0, 0, 1, 2,6) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_5_MEMBER_0_FILL"/>
+</g>
+
+<g class="prev" transform="matrix( 1, 0, 0, 1, 2,6) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_5_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -3,6) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_6_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -3,6) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer1_0_MEMBER_7_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -133.9,-7.55) ">
+<clipPath id="Mask_Mask_1">
+<rect x="-2" y="-2" width="15.75" height="26.85" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_1)" writing-mode="lr"><tspan class="imgAtual" x="0" y="17.4" baseline-shift="0%" kerning="auto" font-family="Colaborate_Bold_Regular" font-size="20.8" fill="#FFFFFF" xml:space="preserve">0</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 190,-7.55) ">
+<clipPath id="Mask_Mask_2">
+<rect x="-2" y="-2" width="62" height="26.85" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_2)" writing-mode="lr"><tspan x="0" y="17.4" baseline-shift="0%" kerning="auto" font-family="Colaborate_Bold_Regular" font-size="20.8" fill="#FFFFFF" xml:space="preserve">100%</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -482.1,-18.45) ">
+<g transform="matrix( 1, 0, 0, 1, 479.1,24.35) ">
+<use xlink:href="#menu_0_Layer0_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 60.85,10.65) ">
+<clipPath id="Mask_Mask_3">
+<rect x="-2" y="-2" width="65.15" height="26.85" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_3)" writing-mode="lr"><tspan x="0" y="17.4" baseline-shift="0%" kerning="auto" font-family="Colaborate_Bold_Regular" font-size="20.8" fill="#231F20" xml:space="preserve">Menu</tspan></text>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 479.1,24.35) ">
+<use xlink:href="#menu_0_Layer0_0_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 479.1,24.35) ">
+<use xlink:href="#menu_0_Layer0_0_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 479.1,24.35) ">
+<use xlink:href="#menu_0_Layer0_0_MEMBER_4_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -331.25,-18.45) ">
+<g class="sound" transform="matrix( 1, 0, 0, 1, 328.25,24.35) ">
+<use xlink:href="#bt_som_0_Layer1_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 60.85,10.65) ">
+<clipPath id="Mask_Mask_4">
+<rect x="-2" y="-2" width="48.15" height="26.85" fill="#FFFFFF" stroke="none"/>
+</clipPath>
+
+<text clip-path="url(#Mask_Mask_4)" writing-mode="lr"><tspan x="0" y="17.4" baseline-shift="0%" kerning="auto" font-family="Colaborate_Bold_Regular" font-size="20.8" fill="#231F20" xml:space="preserve">Som</tspan></text>
+</g>
+
+<g class="sound" transform="matrix( 1, 0, 0, 1, 328.25,24.35) ">
+<use xlink:href="#bt_som_0_Layer1_0_MEMBER_2_MEMBER_0_FILL"/>
+</g>
+
+<g class="sound" transform="matrix( 1, 0, 0, 1, 328.25,24.35) ">
+<use xlink:href="#bt_som_0_Layer1_0_MEMBER_2_MEMBER_1_FILL"/>
+</g>
+
+<g class="sound" transform="matrix( 1, 0, 0, 1, 328.25,24.35) ">
+<use xlink:href="#bt_som_0_Layer1_0_MEMBER_2_MEMBER_2_FILL"/>
+</g>
+</g>
+
+<g class="progress" transform="matrix( 1, 0, 0, 1, -109.65,-6.15) ">
+<use xlink:href="#flash0_ai_Assets_0_Illustrator_Symbols_rodape_0_Layer0_0_MEMBER_0_FILL"/>
+</g>
+</g>
+</svg>
